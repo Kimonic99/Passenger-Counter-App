@@ -38,9 +38,9 @@ button {
 }
 
 #increment-btn {
-    background: black;
+    background: green;
 }
 
 #save-btn {
-    background: darkgreen;
+    background: black;
 }
